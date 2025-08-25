@@ -1,6 +1,6 @@
 # UI Tests for NestedA11yIDs SPM
 
-This project demonstrates and validates the accessibility features enabled by the [`NestedA11yIDs`](https://github.com/SoundBlaster/NestedA11yIDs) Swift Package. It provides a suite of example UI screens and comprehensive UI tests to ensure accessibility identifiers are structured, discoverable, and effective for automation tools.
+This project demonstrates and validates the accessibility features enabled by the [`NestedA11yIDs`](https://github.com/SoundBlaster/NestedSwiftUIA11y) Swift Package. It provides a suite of example UI screens and comprehensive UI tests to ensure accessibility identifiers are structured, discoverable, and effective for automation tools.
 
 ## Main Goal
 
