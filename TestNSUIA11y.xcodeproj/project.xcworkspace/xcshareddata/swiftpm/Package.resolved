@@ -1,0 +1,15 @@
+{
+  "originHash" : "3dc9f749052a6b4df65cb69b23eae797368c0bec266d6ff24cbea4ee6c686186",
+  "pins" : [
+    {
+      "identity" : "nestedswiftuia11y",
+      "kind" : "remoteSourceControl",
+      "location" : "https://github.com/SoundBlaster/NestedSwiftUIA11y",
+      "state" : {
+        "revision" : "ad123fbc8dda58f20de1e6fbd21120bcfbaabf85",
+        "version" : "1.0.0"
+      }
+    }
+  ],
+  "version" : 3
+}
